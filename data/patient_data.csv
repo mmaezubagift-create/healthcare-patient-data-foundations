@@ -1,0 +1,6 @@
+Patient_ID,Age,Sex,Diagnosis,Admission_Date,Discharge_Date,Department,Length_of_Stay,Outcome
+P001,34,Female,Malaria,2026-10-01,2026-10-04,General Medicine,3,Discharged
+P002,51,Male,Hypertension,2026-10-02,2026-10-07,General Medicine,5,Discharged
+P003,27,Female,Pneumonia,2026-10-03,2026-10-07,Respiratory,4,Discharged
+P004,63,Male,Diabetes,2026-10-04,2026-10-10,Endocrinology,6,Discharged
+P005,42,Female,Malaria,2026-10-05,2026-10-08,General Medicine,3,Discharged
